@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://res.cloudinary.com/dqmvgw0df/image/upload/c_scale,w_219/v1682634732/Profile_picture_x3d1qo.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Rohit , a full-time full-stack  developer </div>  
   
 
