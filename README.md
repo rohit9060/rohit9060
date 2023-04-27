@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent.fpat3-1.fna.fbcdn.net/v/t39.30808-6/332726439_498023355852369_3792285816544536885_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=V-fQdbzhOawAX8oGLc7&_nc_oc=AQm-GNZ6Qwcqc03gKSOQPmyiLVqkd_eXRXn4gKdmnBWCF4ViGFYlIv3jS0CaPv-LfMNdecz5n6GdcrNa0ojbWjWd&_nc_ht=scontent.fpat3-1.fna&oh=00_AfCF9jKUG7NFkUH3STG0F5QbWePZ1lKeZfjgmw6bPHB2zA&oe=644EFDE0" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/dqmvgw0df/image/upload/c_scale,w_219/v1682634732/Profile_picture_x3d1qo.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -106,13 +106,11 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3126oayl7ppm7evupgb5lps5hsbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
