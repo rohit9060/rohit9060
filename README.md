@@ -1,4 +1,4 @@
-### <div align="center">I'm Rohit , a full-time full-stack  developer </div>  
+### <div align="center">I'm Rohit ,  full-stack  developer </div>  
   
 
 - 🔭 I’m currently working on [LMS API](https://github.com/Rohitkushwaha9060/lmsapi)  
