@@ -1,7 +1,7 @@
 ### <div align="center">I'm Rohit, full-stack  developer </div>  
   
 
-- 🔭 I’m currently working on [Kite Technical Institute Web App](https://kite.codebit.gq/dashboard/notice)  
+- 🔭 I’m currently working on [Kite Technical Institute Web App](https://kitefrontent.vercel.app)  
   
 
 - 🌱 I’m currently learning MERN stack AND  related technologies  
