@@ -123,9 +123,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkushwaha9060&show_icons=true&locale=en&layout=compact" alt="rohitkushwaha9060" /></p>
 
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=rohitkushwaha9060&cc=000&tc=fff&ic=fff&bc=000" alt="rohitkushwaha9060" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkushwaha9060&show_icons=true&locale=en" alt="rohitkushwaha9060" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkushwaha9060&" alt="rohitkushwaha9060" /></p>
-</center>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rohitkushwaha9060)
+
+</center>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
