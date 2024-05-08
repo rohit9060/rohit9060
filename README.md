@@ -129,7 +129,7 @@
 <details>
   <summary><b> Profile Views 👁️</b></summary>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=rohitkushwaha9060&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rohitkushwaha9060)
