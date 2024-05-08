@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="  https://imgs.search.brave.com/Ga_fk4lJiEevR_via8bdQl-UPy6eTGwH8HH762UsPSs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wcmlzbWEtMi5z/dmc.svg" height="40" alt="nodejs logo"  />
+  <img src="  https://imgs.search.brave.com/Ga_fk4lJiEevR_via8bdQl-UPy6eTGwH8HH762UsPSs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wcmlzbWEtMi5z/dmc.svg" height="40" alt="prisma logo"  />
   <img width="12" />
    <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="40" alt="sequelize logo"  />
   <img width="12" />
