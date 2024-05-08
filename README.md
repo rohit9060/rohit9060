@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="prisma logo"  />
+  <img src="  https://imgs.search.brave.com/Ga_fk4lJiEevR_via8bdQl-UPy6eTGwH8HH762UsPSs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wcmlzbWEtMi5z/dmc.svg" height="40" alt="prisma logo"  />
   <img width="12" />
    <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="40" alt="sequelize logo"  />
   <img width="12" />
@@ -133,18 +133,16 @@
   <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rohitkushwaha9060&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
   <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkushwaha9060&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
 </p>
-<details>	
-  <summary><b> Github Streaks 🔥</b></summary><br>
+
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
-</details>
-<details>
-  <summary><b> Profile Views 👁️</b></summary>
-  <br>
+
   <img src="https://komarev.com/ghpvc/?username=rohitkushwaha906036&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
+</p>
+<p align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rohitkushwaha9060)
 
-</center>
+</p>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
