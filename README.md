@@ -114,20 +114,23 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
 </div>
 
-###
+## 💻 GitHub Stats
 
 <center>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitkushwaha9060&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkushwaha9060" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkushwaha9060" alt="rohitkushwaha9060" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkushwaha9060&show_icons=true&locale=en&layout=compact" alt="rohitkushwaha9060" /></p>
-
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=rohitkushwaha9060&cc=000&tc=fff&ic=fff&bc=000" alt="rohitkushwaha9060" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkushwaha9060&show_icons=true&locale=en" alt="rohitkushwaha9060" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkushwaha9060&" alt="rohitkushwaha9060" /></p>
+<p align="center">
+  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rohitkushwaha9060&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkushwaha9060&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
+</p>
+<details>	
+  <summary><b> Github Streaks 🔥</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
+</details>
+<details>
+  <summary><b> Profile Views 👁️</b></summary>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rohitkushwaha9060)
 
