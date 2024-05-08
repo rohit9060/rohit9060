@@ -135,7 +135,7 @@
 </p>
 
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkushwaha9060&hide_border=true&theme=dark"></a></p>
 
   <img src="https://komarev.com/ghpvc/?username=rohitkushwaha906036&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </p>
