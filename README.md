@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **full stack development**
 
-- 📫 How to reach me **https://rohitkushwha.vercel.app**
+- 📫 How to reach me [My Website]([https://github.com/Rohitkushwaha9060/school_man](https://rohitkushwha.vercel.app))
+
 <h2 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rohit-kushwaha-315a22217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kushwaha-315a22217" height="30" width="40" /></a>
