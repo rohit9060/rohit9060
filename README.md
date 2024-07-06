@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kushwaha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [School](https://github.com/Rohitkushwaha9060/school_man)
+- 🔭 I’m currently working on [School](https://github.com/Rohitkushwaha9060/kite_institute_backend)
 
 - 🌱 I’m currently learning **System Design**
 
