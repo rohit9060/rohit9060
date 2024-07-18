@@ -12,7 +12,7 @@
 
 <h2 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/rohit-kushwaha-315a22217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kushwaha-315a22217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohitk26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitk26" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit_26_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_26_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajdilkhush0987654321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajdilkhush0987654321" height="30" width="40" /></a>
 </p>
@@ -22,18 +22,18 @@
 
 <center>
 <p align="center">
-  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rohitkushwaha9060&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
-  <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkushwaha9060&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
+  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rohit9060&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit9060&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
 </p>
 
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkushwaha9060&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit9060&hide_border=true&theme=dark"></a></p>
 
-  <img src="https://komarev.com/ghpvc/?username=rohitkushwaha906036&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=rohit9060&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </p>
 <p align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Rohitkushwaha9060)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/rohit9060)
 
 </p>
 
