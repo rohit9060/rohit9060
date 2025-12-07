@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Go Lang**
 
 - 💬 Ask me about **full stack development**
 
