@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **full stack development**
 
-- 📫 How to reach me [My Website](https://dilkhush9060.vercel.app)
+- 📫 How to reach me [My Website](https://dilkhush.online)
 
 <h2 align="center">Connect with me:</h3>
 <p align="center">
