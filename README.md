@@ -24,7 +24,7 @@
   <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesdilkhush&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a>
 </p>
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesdilkhush&bg_color=000000&color=67ff3d&line=8ae41b&point=fffafa&area=true&hide_border=true)]
+![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codesdilkhush&bg_color=000000&color=67ff3d&line=8ae41b&point=fffafa&area=true&hide_border=true)
 
 </p>
 
